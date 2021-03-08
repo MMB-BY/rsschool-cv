@@ -1,1 +1,1 @@
-https://github.com/MMB-BY/rsschool-cv
+https://MMB-BY.github.io/rsschool-cv/
